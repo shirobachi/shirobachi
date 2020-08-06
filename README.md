@@ -7,3 +7,5 @@
 - ❔ Questions about c++ are always welcome
 - 📩 Mail me szevaa97@gmail.com
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻🎸
+
+<script src="https://gist.github.com/Shirobachi/a7537d404b86b375e46e4b7dcea54f6b.js"></script>
