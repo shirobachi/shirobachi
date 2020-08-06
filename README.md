@@ -7,5 +7,8 @@
 - ❔ Questions about c++ are always welcome
 - 📩 Mail me szevaa97@gmail.com
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻🎸
+<img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/93426709-b4d4-4219-b58a-eb5e395aae78.svg" width="800px"/>
 
-<script src="https://gist.github.com/Shirobachi/a7537d404b86b375e46e4b7dcea54f6b.js"></script>
+---
+
+### [![time tracker](https://wakatime.com/badge/github/Shirobachi/midori-page.svg)](https://wakatime.com/badge/github/Shirobachi/midori-page) Now I'm working on somrthing big!
