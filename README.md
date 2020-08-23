@@ -7,7 +7,7 @@
 - ❔ Questions about c++ are always welcome
 - 📩 Mail me szevaa97@gmail.com
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻🎸
-<img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/321c5758-8319-433e-8979-4e7460c87556.svg" width="800px"/>
+<img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/1d8c8355-6831-4613-8915-53011826f8f5.svg" width="800px"/>
 
 ---
 
