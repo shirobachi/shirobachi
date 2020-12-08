@@ -6,4 +6,6 @@
 - 📚 Learning ~~frontend, backend~~, Python, assembly 😠 and ~~c++~~ c#
 - 📩 Mail me simon@hryszko.dev
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻~~🎸~~
+
+PS. see my page: [hryszko.dev](//hryszko.dev)
 <img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/1d8c8355-6831-4613-8915-53011826f8f5.svg" width="800px"/>
