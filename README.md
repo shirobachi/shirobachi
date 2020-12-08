@@ -8,7 +8,3 @@
 - 📩 Mail me szevaa97@gmail.com
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻🎸
 <img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/1d8c8355-6831-4613-8915-53011826f8f5.svg" width="800px"/>
-
----
-
-### [![time tracker](https://wakatime.com/badge/github/Shirobachi/midori-page.svg)](https://wakatime.com/badge/github/Shirobachi/midori-page) Now I'm working on somrthing big!
