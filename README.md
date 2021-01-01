@@ -8,4 +8,4 @@
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻~~🎸~~
 
 PS. see my page: [hryszko.dev](//hryszko.dev)
-<img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/cf5f8432-e9cd-46d8-9d98-38b1e2eeef57.svg" width="800px"/>
+<img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/7926d107-9ce6-4791-a36b-2a84acf8100e.svg" width="800px"/>
