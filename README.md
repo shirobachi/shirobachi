@@ -3,7 +3,7 @@
 ## I'm a student of computer science who loves mathematic!
 - 🥇 I finished the first year as the best student of my degree course
 - 🔭 Now I am working on something pretty c00l
-- 📚 Learning ~~frontend, backend~~, Python, assembly 😠 and ~~c++~~ c#
+- 📚 Learning ~~frontend~~, backend, Python, assembly 😠 and ~~c++~~ c#
 - 📩 Mail me simon@hryszko.dev
 - ⚡ Facts about me: 🐱🌈👱🏿‍♂️💻~~🎸~~🤖
 
