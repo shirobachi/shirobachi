@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirobachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="shirobachi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirobachi&show_icons=true&theme=dark&locale=en" alt="shirobachi" /></p>
+
+<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/646028ef94d2208a1994e980869148e011859eb373a7c195b17356f8a2d3f27c/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f4062373462613363352d323838332d343363612d393833332d3739396638613530383430612f37393236643130372d396365362d343739312d613336622d3261383461636638313030652e737667" alt="shirobachi" /></p>
