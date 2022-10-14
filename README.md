@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on college final work (A.I.)
 
-- 🌱 I’m currently learning **vue composition api**
+- 🌱 I’m currently learning **kubernetes, AWS and other DevOpts staff**
 
 - 👯 I’m looking to collaborate on **web applications**
 
