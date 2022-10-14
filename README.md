@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **simon@hryszko.dev**
 
-- ⚡ Fun fact **I love math 🤔💭📊🧮📝**
+- ⚡ Fun fact **I love bash coding and automation🚀**
 
 
 <h3 align="left">Languages and Tools:</h3>
