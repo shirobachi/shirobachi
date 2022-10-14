@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **kubernetes, AWS and other DevOpts staff**
 
-- 👯 I’m looking to collaborate on **web applications**
+- 👯 I’m looking to collaborate on **Something great and big**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shirobachi/](https://github.com/shirobachi/)
 
