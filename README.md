@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A student of IT degree who love programming</h3>
 
-- 🔭 I’m currently working on college projects 🤮)
+- 🔭 I’m currently working on college final work (A.I.)
 
 - 🌱 I’m currently learning **vue composition api**
 
