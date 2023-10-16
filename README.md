@@ -6,7 +6,9 @@ Hello, I'm Simon Hryszko, a passionate DevOps engineer with a love for all thing
 🌱 **Exploring:** New ways to streamline development and deployment processes for improved efficiency.  
 💡 **Goal:** To collaborate with like-minded individuals and contribute to exciting projects that make a real impact.
 
-![Coding stats](https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/f5bff93c-b455-4b14-8605-0de83a92b4d3.svg)
+<p align="center">
+    <img src="https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/f5bff93c-b455-4b14-8605-0de83a92b4d3.svg"/>
+</p>
 ## 🚀 Projects
 
 - **n8n-nodes-wordnik** - Contributed to the n8n automation tool by developing a Words API integration node.
@@ -27,4 +29,4 @@ You can check out my public repositories [here](https://github.com/shirobachi?ta
 - **Email**: [simon@hryszko.dev](mailto:simon-from-gh@hryszko.dev)
 - **Phone**: +48 791 874 119
 
-Thank you for visiting my GitHub profile. Feel free to explore my repositories, and if you have any questions or want to collaborate, please reach out. Let's code together and make the tech world a better place!
+Thank you for visiting my GitHub profile!
