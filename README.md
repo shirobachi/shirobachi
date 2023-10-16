@@ -5,7 +5,8 @@ Hello, I'm Simon Hryszko, a passionate DevOps engineer with a love for all thing
 🔭 **Currently Working On:** Optimizing microservices environments using Kubernetes and Ansible to ensure resilience and scalability.  
 🌱 **Exploring:** New ways to streamline development and deployment processes for improved efficiency.  
 💡 **Goal:** To collaborate with like-minded individuals and contribute to exciting projects that make a real impact.
-  
+
+![Coding stats](https://wakatime.com/share/@b74ba3c5-2883-43ca-9833-799f8a50840a/f5bff93c-b455-4b14-8605-0de83a92b4d3.svg)
 ## 🚀 Projects
 
 - **n8n-nodes-wordnik** - Contributed to the n8n automation tool by developing a Words API integration node.
