@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A student of IT degree who love programming</h3>
+# Welcome to My GitHub Profile!
 
-- 🔭 I’m currently working on college final work (A.I.)
+Hello, I'm Simon Hryszko, a passionate DevOps engineer with a love for all things related to cloud infrastructure, microservices, and open-source contributions. I'm excited about technology and always eager to learn and grow in this dynamic field.
 
-- 🌱 I’m currently learning **kubernetes, AWS and other DevOpts staff**
+🔭 **Currently Working On:** Optimizing microservices environments using Kubernetes and Ansible to ensure resilience and scalability.  
+🌱 **Exploring:** New ways to streamline development and deployment processes for improved efficiency.  
+💡 **Goal:** To collaborate with like-minded individuals and contribute to exciting projects that make a real impact.
+  
+## 🚀 Projects
 
-- 👯 I’m looking to collaborate on **Something great and big**
+- **n8n-nodes-wordnik** - Contributed to the n8n automation tool by developing a Words API integration node.
+- **Infrastructure as Code (IaC)** - Crafted a robust IaC blueprint using Ansible for various environments, from Raspberry Pi to VPS.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shirobachi/](https://github.com/shirobachi/)
-
-- 📫 How to reach me **simon@hryszko.dev**
-
-- ⚡ Fun fact **I love bash coding and automation🚀**
+You can check out my public repositories [here](https://github.com/shirobachi?tab=repositories&type=public). Feel free to explore my code, and if you have any questions or want to collaborate, please reach out. Let's code together and make the tech world a better place! 🚀
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/646028ef94d2208a1994e980869148e011859eb373a7c195b17356f8a2d3f27c/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f4062373462613363352d323838332d343363612d393833332d3739396638613530383430612f37393236643130372d396365362d343739312d613336622d3261383461636638313030652e737667" alt="shirobachi" /></p>
+- **DevOps**: Kubernetes, AWS, Terraform, Helm, ArgoCD, Docker, Ansible.
+- **Frontend**: Vue.js 3, Tailwind CSS.
+- **Programming Assistance**: GitHub Copilot, Chat-GPT, Jira, Gerrit, taskwarrior
+
+## 📫 Let's Connect
+
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/simon-hryszko)
+- **Email**: [simon@hryszko.dev](mailto:simon-from-gh@hryszko.dev)
+- **Phone**: +48 791 874 119
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories, and if you have any questions or want to collaborate, please reach out. Let's code together and make the tech world a better place!
